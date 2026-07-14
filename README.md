@@ -31,7 +31,7 @@ Assume you are trying to fetch anime , then first the request will be sent to Ji
 
 I will make it clear that Loging in or signing in is **NOT COMPULSORY** , it doesnt hold hold you back from using any feature other than accessing the saved list on other devices ,
 
-And if you are a reviewer(or anyone reading this is welcome) who wants to check the authentication system but dont want to use your personal details then you can use temporary email (though they wont load the theme correctly,) but will load the required code properly .
+And if you are a reviewer(or anyone reading this is welcome) who wants to check the authentication system but dont want to use your personal details then you can use temporary email (though they wont load the theme correctly,) but will load the required code properly . ##MAKE SURE TO USE UNIQUE USERNAME IN SIGNUP PAGE
 
 Just in case if someone doesnt know how to do it , I have also uploaded a video doing it on my devlog #12 . 
 
