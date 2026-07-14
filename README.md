@@ -136,9 +136,17 @@ And yes the theme i tried using is **Glassmorphism** and the intro username does
 
 ---
 
-## SMTP
+## CREDITS
 
-For SMTP : I used **Brevo**
+SMTP : https://www.brevo.com/
+NETFLIX HOVER: https://www.educrush.in/projects/netflix-button-animation
+APIS:
+jikanBaseUrl = https://api.jikan.moe/v4
+anilistUrl = https://graphql.anilist.co
+mangadexUrl = https://api.mangadex.org
+kitsuUrl = https://kitsu.io/api/edge
+
+SVG : https://animejs.com/documentation/svg/createdrawable
 
 ---
 
