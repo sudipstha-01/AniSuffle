@@ -138,15 +138,15 @@ And yes the theme i tried using is **Glassmorphism** and the intro username does
 
 ## CREDITS
 
-SMTP : https://www.brevo.com/
-NETFLIX HOVER: https://www.educrush.in/projects/netflix-button-animation
-APIS:
-jikanBaseUrl = https://api.jikan.moe/v4
-anilistUrl = https://graphql.anilist.co
-mangadexUrl = https://api.mangadex.org
-kitsuUrl = https://kitsu.io/api/edge
+SMTP : https://www.brevo.com/  <br>
+NETFLIX HOVER: https://www.educrush.in/projects/netflix-button-animation  <br>
+APIS: <br>
+jikanBaseUrl = https://api.jikan.moe/v4 <br>
+anilistUrl = https://graphql.anilist.co <br>
+mangadexUrl = https://api.mangadex.org <br>
+kitsuUrl = https://kitsu.io/api/edge <br>
 
-SVG : https://animejs.com/documentation/svg/createdrawable
+SVG : https://animejs.com/documentation/svg/createdrawable <br>
 
 ---
 
