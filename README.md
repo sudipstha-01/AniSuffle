@@ -145,7 +145,7 @@ jikanBaseUrl = https://api.jikan.moe/v4 <br>
 anilistUrl = https://graphql.anilist.co <br>
 mangadexUrl = https://api.mangadex.org <br>
 kitsuUrl = https://kitsu.io/api/edge <br>
-
+Glassmorphism design: https://hype4.academy/tools/glassmorphism-generator <br>
 SVG : https://animejs.com/documentation/svg/createdrawable <br>
 
 ---
