@@ -158,6 +158,6 @@ I guess I covered everything ,
 ---
 
 # Thank you so much for reading.
-I really really really really really really hope you will enjoy this project of mine . 
+I really really really really really really hope you will enjoy this project . 
 Thank you so so so much.
 
