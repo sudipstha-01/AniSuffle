@@ -148,6 +148,7 @@ kitsuUrl = https://kitsu.io/api/edge <br>
 Glassmorphism design: https://hype4.academy/tools/glassmorphism-generator <br>
 SVG : https://animejs.com/documentation/svg/createdrawable <br>
 Mute Btn (when hover trailer is on) : https://uiverse.io/catraco/dry-robin-61 <br>
+CheckBox Animation (On hover trailer) : https://uiverse.io/00Kubi/hot-dragonfly-56 <br> 
 ---
 
 ## ( •̀ ω •́ )✧
